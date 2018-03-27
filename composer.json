@@ -1,0 +1,9 @@
+{
+    "name": "fk/exceptions",
+    "autoload": {
+        "psr-4": {
+            "fk\\exceptions\\": "./src"
+        }
+    },
+    "description": "Exception classes for all FK packages, which should be included by all fk/* packages"
+}
